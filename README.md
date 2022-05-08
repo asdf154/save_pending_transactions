@@ -15,8 +15,8 @@ python consume_kafka.py
 ```
 
 Improvements:
--Run script
--Dependencies management?
--Cassandra connection details
--General refactoring
--More async
+- Run script
+- Dependencies management?
+- Cassandra connection details
+- General refactoring
+- More async
